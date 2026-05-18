@@ -1,7 +1,8 @@
 # Petice_RPOM_checker Manual
 ## Nástroj pro kontrolu podpisů petice ruceprycodmedii.cz
 
-Eva Nedvědová https://www.linkedin.com/in/eva-nedvedova-4015b5154/
+Eva Nedvědová 
+https://www.linkedin.com/in/eva-nedvedova-4015b5154/
 Dotazy, připomínky, pochvaly i nápady na zlepšení jsou vítané — klidně napište.
 
 datum aktualizace 17.05.2026
