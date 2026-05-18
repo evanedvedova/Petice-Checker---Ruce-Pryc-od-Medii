@@ -103,7 +103,7 @@ SHORT_PROFANITY = {"ass", "vul", "vole", "prd", "prdel", "pic", "rit", "suk", "d
 # Pokud najdeme toto slovo A město odpovídá → ignorujeme
 PROFANITY_CITY_WHITELIST = {
     "pice": {"krepice", "ropice", "repice", "upice", "jistebnice", "holice", "cepice", "pocepice", "jarpice", "popice", "herspice", "biskupice"},
-    "stet": {"steti"},
+    "stet": {"steti", "stetovice"},
     "piče": {"krepice", "ropice", "repice", "upice", "jistebnice", "holice", "cepice", "pocepice", "jarpice", "popice", "herspice", "biskupice"},
     "ojet": {"kojetin", "svojetice", "kojetice"},
     # "dalsi_slovo": {"město1", "město2"},
@@ -121,6 +121,7 @@ PROFANITY_NAME_WHITELIST = {
               "spickova", "krupickova", "slepickova", "cepickova"},
     "pich": {"pospichal", "pospichalova"},
     "dick": {"vodicka", "vodickova", "brdicka", "brdickova"},
+    "stet": {"stetina", "stetinova", "brdicka", "brdickova"},
     # "dalsi_slovo": {"povolené_příjmení"},
 }
 
