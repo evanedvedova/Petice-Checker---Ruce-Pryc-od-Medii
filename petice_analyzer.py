@@ -275,11 +275,13 @@ SUSPICIOUS_LIST = [
     "bormann", "frank", "mao", "mengele", "speer", "stalin", "lenin", "breznev", 
      "ribbentrop", "lukasenko", "ceaușescu", "Piłsudski",
     # Žijící politici jako falešné jméno
-    "babis", "orban", "trump", "okamura", "rajchl", "macinka", "turek", 
+    "babis", "orban", "trump", "okamura", "rajchl", "macinka", "turek", "fial",
     "klempir", "putin",     
     # Smyšlená jména ze starých dat
     "troubovic", "uzdichcal", "michopulos", "tesiprdel", "lepsozmrdi", "pavek",
     "troub",
+    # k vládě
+    "petikoal", "petidemoli",
     # Rasistické
     "negr", "neger",
     # Sexuální / urážlivé
@@ -294,7 +296,7 @@ SUSPICIOUS_LIST = [
     "moloch",
     # z word dokumentu
     "cocain", "kokain" , "herak" ,"heroi", "cannabis", "cern", "pras", "opic", "opil", "alkohol", "alcohol", "drog", "marihuan", "marijuan", "marjan", "pernik", "extaz", "cigar", "zloci", "lepsoli",
-    "zrz", "minar", "chvilk", "havl", "kavar",
+    "zrz", "minar", "chvilk", "havl", "kavar", "hnus",
     # Anglické
     "slave", "hater", "monster", "sigma", "sex", 
     # ct related
