@@ -276,11 +276,14 @@ SUSPICIOUS_LIST = [
     "bormann", "frank", "mao", "mengele", "speer", "stalin", "lenin", "breznev", 
      "ribbentrop", "lukasenko", "ceaușescu", "Piłsudski",
     # Žijící politici jako falešné jméno
-    "babis", "orban", "trump", "okamura", "rajchl", "macinka", "turek", "fial",
+    "babis", "orban", "trump", "okamura", "rajchl", "macinka", "turek", "fial", "ovcacek",
     "klempir", "putin",     
     # Smyšlená jména ze starých dat
     "troubovic", "uzdichcal", "michopulos", "tesiprdel", "lepsozmrdi", "pavek",
-    "troub",
+    "troub", "czeczotka", "michnik", "kazuto", "kirigaya", "cieslarova", "musashi", "maxim",
+    "karib", "manolov", "bezvoda", "cetung", "bludimira", "kuchynka", "jelly", "okradeny", "ozzy", 
+    "cliff", "chlapecek", "holcicka", "mimin", "respektovat", "karel IV", "vaclav IV", "papez", "H-I-T-L-E-R", 
+    "mamin", "tatin", "domov", "prezident",
     # k vládě
     "petikoal", "petidemoli",
     # Rasistické
@@ -294,7 +297,7 @@ SUSPICIOUS_LIST = [
     "zlodej", "zloděj", "okradeny", "blbec",
     "srackou", "dohajzlu",
     "picin",
-    "moloch",
+    "moloch", "krivak", "zaslepen"
     # z word dokumentu
     "cocain", "kokain" , "herak" ,"heroi", "cannabis", "cern", "pras", "opic", "opil", "alkohol", "alcohol", "drog", "marihuan", "marijuan", "marjan", "pernik", "extaz", "cigar", "zloci", "lepsoli",
     "zrz", "minar", "chvilk", "havl", "kavar", "hnus",
@@ -306,6 +309,8 @@ SUSPICIOUS_LIST = [
     "kral", "kralovna", "princ", "princezna", "baron",
     # hodnosti
     "major", "general",
+    # stranky
+    "wikipedia", "youtube"
 ]
 
 # ČT: obklopeno mezerami/krajem stringu
