@@ -283,7 +283,7 @@ SUSPICIOUS_LIST = [
     "troub", "czeczotka", "michnik", "kazuto", "kirigaya", "cieslarova", "musashi", "maxim",
     "karib", "manolov", "bezvoda", "cetung", "bludimira", "kuchynka", "jelly", "okradeny", "ozzy", 
     "cliff", "chlapecek", "holcicka", "mimin", "respektovat", "karel IV", "vaclav IV", "papez", "H-I-T-L-E-R", 
-    "mamin", "tatin", "domov", "prezident",
+    "mamin", "tatin", "domov", "prezident", "bezdomovec",
     # k vládě
     "petikoal", "petidemoli",
     # Rasistické
